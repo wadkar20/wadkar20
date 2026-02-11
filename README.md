@@ -23,6 +23,7 @@ I'm a Computer Engineering graduate with 9 months of hands-on DevOps internship 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Monitoring:**  
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
